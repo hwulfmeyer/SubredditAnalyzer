@@ -1,0 +1,9 @@
+{
+    "reddit": {
+      "clientid": "---------",
+      "clientsecret": "---------",
+      "useragent": "SubredditAnalyzer by wulfihm",
+      "username": "---------",
+      "password": "---------"
+    }
+  }
